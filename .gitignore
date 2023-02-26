@@ -30,6 +30,12 @@ hs_err_pid*
 out/
 target/
 
+######################
+# Visual Studio Code
+######################
+.vscode/
+bin/
+
 ## Mac
 .DS_Store
 
